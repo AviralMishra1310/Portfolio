@@ -1,4 +1,4 @@
-# 🚀 Aviral Mishra - Developer Portfolio
+# 🚀 Aviral Misra - Portfolio
 
 A modern, responsive, and interactive developer portfolio built to showcase my projects, technical skills, and experience as a Full Stack Developer & AI Enthusiast.
 
