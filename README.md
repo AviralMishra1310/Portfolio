@@ -1,16 +1,172 @@
-# React + Vite
+# 🚀 Aviral Mishra - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive, and interactive developer portfolio built to showcase my projects, technical skills, and experience as a Full Stack Developer & AI Enthusiast.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+👉 https://portfolio-tau-mocha-82.vercel.app/
 
-## React Compiler
+## 📂 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👉 https://github.com/AviralMishra1310/Portfolio.git
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ✨ Features
+
+- Modern & Responsive UI
+- Professional Hero Section
+- About Me
+- Technical Skills Showcase
+- Featured Projects
+- Education Timeline
+- Contact Section
+- Resume Download
+- Mobile Friendly
+- Smooth Hover Animations
+- Optimized for Recruiters
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- Tailwind CSS
+
+### Icons
+- React Icons
+- Lucide React
+
+### Deployment
+- Vercel
+
+---
+
+## 📸 Featured Projects
+
+### 🧠 OfferPrep AI
+AI-powered placement preparation platform with:
+- Resume Analysis
+- JWT Authentication
+- FastAPI Backend
+- PostgreSQL Database
+- Machine Learning Integration
+
+### 🤖 Quick AI
+Modern AI SaaS application using AI APIs for content generation.
+
+### 🩺 Prescripto
+Full Stack Doctor Appointment Management Platform built using the MERN Stack.
+
+---
+
+## 📬 Contact
+
+📧 Email:
+**aviralmishra131005@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/aviral-mishra-7b6073346/
+
+🐙 GitHub:
+https://github.com/AviralMishra1310
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/AviralMishra1310/Portfolio.git
+```
+
+Move into the project
+
+```bash
+cd Portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 📁 Project Structure
+
+```
+Portfolio
+│
+├── public
+├── src
+│   ├── assets
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🎯 Future Improvements
+
+- Blog Section
+- Dark/Light Theme Toggle
+- Project Filtering
+- GitHub Contribution Graph
+- LeetCode Statistics
+- Contact Form with EmailJS
+- Framer Motion Animations
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+It motivates me to build more amazing projects.
+
+---
+
+## 👨‍💻 Author
+
+**Aviral Mishra**
+
+B.Tech CSE (AI & ML)
+
+Full Stack Developer | AI Enthusiast | Software Engineer
+
+🌐 Portfolio:
+https://portfolio-tau-mocha-82.vercel.app/
+
+🐙 GitHub:
+https://github.com/AviralMishra1310
+
+💼 LinkedIn:
+https://www.linkedin.com/in/aviral-mishra-7b6073346/
