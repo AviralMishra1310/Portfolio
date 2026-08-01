@@ -73,39 +73,6 @@ https://www.linkedin.com/in/aviral-mishra-7b6073346/
 🐙 GitHub:
 https://github.com/AviralMishra1310
 
----
-
-## ⚙️ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/AviralMishra1310/Portfolio.git
-```
-
-Move into the project
-
-```bash
-cd Portfolio
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Start the development server
-
-```bash
-npm run dev
-```
-
-Build for production
-
-```bash
-npm run build
-```
 
 ---
 
